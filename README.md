@@ -1,4 +1,6 @@
-> Incluir aquí las medallas de Waffle y Travis.
+
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/NahuelM426/prevencion-acoso.svg?columns=backlog)](https://waffle.io/NahuelM426/prevencion-acoso)
+[![Build Status](https://travis-ci.org/ingsw-sarmiento/libro-matriz-digital.svg?branch=master)](https://travis-ci.org/ingsw-sarmiento/libro-matriz-digital)
 
 # Prevención acoso
 
