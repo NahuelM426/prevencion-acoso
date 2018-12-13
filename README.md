@@ -12,9 +12,9 @@ Paso 1 - Instalar Oracle Java 8 en Ubuntu
   Debe habilitar un repositorio adicional en su sistema para instalar Java 8 en Ubuntu VPS. Después de eso, instale Java   8 en un sistema Ubuntu usando apt-get.
   
   Ejecute los siguientes comandos para instalar Java 8 en Ubuntu y LinuxMint.
-  ---
+  ``` 
     sudo apt-get install openjdk-8-jre
-  ---  
+  ``` 
 
    
  
@@ -22,26 +22,26 @@ Paso 1 - Instalar Oracle Java 8 en Ubuntu
   Instalar Apache Maven en Ubuntu con Apt
   
    Comience por actualizar el índice del paquete:
-  ---  
+  ```  
     sudo apt update
-  ---
+  ``` 
   A continuación, instale Maven escribiendo el siguiente comando:
-  ---
+ ``` 
     sudo apt install maven
-  ---  
+ ```  
   Verifique la instalación ejecutando el mvn -versioncomando:
-  ---
+  ``` 
     mvn -version
-  ---
+  ``` 
 
 
 * MySQL
   La versión corta de la instalación es simple:
-  ---
+  ``` 
   sudo apt-get update
   sudo apt-get install mysql-server
   mysql_secure_installation
-  ---
+  ``` 
 * Eclipse
   Como descargar Eclipse  
   ir https://www.eclipse.org/downloads/index.php
@@ -51,20 +51,20 @@ Paso 1 - Instalar Oracle Java 8 en Ubuntu
 Explicar aquí cómo hacer lo siguiente:
 * Crear la base de datos.
   Deves esta en una consola 
-  ---
+  ``` 
   .abrir Mysql -u root -proot
   .create database nombreDeBase;
   .use nombreDeBase;
-  ---
+  ``` 
 * Cargar los datos iniciales.
   ir a la Class DataGenerator 
-  ---
+  ``` 
     Ej: Telefono telefono = new Telefono();
 	    	telefono.setNombre("Atención para mujeres en situación de violencia");
 	    	telefono.setDescripcion("Si vos o alguien que conocés vive alguna situación de violencia, llamá gratis al 144 o buscá         algún centro de atención cercano.");
       	telefono.setNumero("144");
         telefonosHome.saveOrUpdate(telefono);
-   ---
+   ``` 
 * Importar el proyecto en Eclipse.
   ---
   Entrar A Eclipse
