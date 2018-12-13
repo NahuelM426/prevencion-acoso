@@ -8,7 +8,7 @@
 
 Explicar aquí cómo instalar lo siguiente:
 * JDK 1.8
-Paso 1 - Instalar Oracle Java 8 en Ubuntu
+Paso 1 - Instalar open Java 8 en Ubuntu
   Debe habilitar un repositorio adicional en su sistema para instalar Java 8 en Ubuntu VPS. Después de eso, instale Java   8 en un sistema Ubuntu usando apt-get.
   
   Ejecute los siguientes comandos para instalar Java 8 en Ubuntu y LinuxMint.
