@@ -4,12 +4,12 @@
 
 # Prevención acoso
 
-## Software necesario
+# Software necesario
 
-# Explicar aquí cómo instalar lo siguiente:
+## Explicar aquí cómo instalar lo siguiente:
 * JDK 1.8
 
-# Instalar open Java 8 en Ubuntu
+## Instalar open Java 8 en Ubuntu
   Ejecute los siguientes comandos para instalar Java 8 en Ubuntu y LinuxMint.
   ``` 
     sudo apt-get install openjdk-8-jre
@@ -17,7 +17,7 @@
 
    
  
-# Maven
+## Maven
   Instalar Apache Maven en Ubuntu con Apt
   
    Comience por actualizar el índice del paquete:
@@ -34,14 +34,14 @@
   ``` 
 
 
-# MySQL
+## MySQL
   La versión corta de la instalación es simple:
   ``` 
   sudo apt-get update
   sudo apt-get install mysql-server
   mysql_secure_installation
   ``` 
-# Eclipse
+## Eclipse
   Para descarga Eclipse es necesario diregice a la pagina oficial de Eclipse 
   donde te aperecera para descagerlo tento para linix y Windows le das al boton Descagar.
   una ves descagado vas la carteta donde lo descagaste y clip derecho extraer aqui 
