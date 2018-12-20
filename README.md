@@ -45,8 +45,11 @@
   Para descarga Eclipse es necesario diregice a la pagina oficial de Eclipse
   ![image](https://user-images.githubusercontent.com/43456293/50297234-13aab380-045b-11e9-880e-423ab231ce2e.png)
   donde te aperecera para descagerlo tento para linix y Windows le das al boton Descagar.
+  ![image](https://user-images.githubusercontent.com/43456293/50297316-52d90480-045b-11e9-8cc8-8553005873e4.png)
   una ves descagado vas la carteta donde lo descagaste y clip derecho extraer aqui 
+  ![image](https://user-images.githubusercontent.com/43456293/50297412-80be4900-045b-11e9-952d-71014df087d0.png)
   vas a ver una archivo llamado (eclipse.inst) le das clip y seguis los procedimientos 
+  ![image](https://user-images.githubusercontent.com/43456293/50297475-a51a2580-045b-11e9-896c-b4c5055de533.png)
   Para Mas Detalles Dirigirce
   https://www.eclipse.org/downloads/index.php
 
