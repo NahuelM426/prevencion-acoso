@@ -42,7 +42,8 @@
   mysql_secure_installation
   ``` 
 ## Eclipse
-  Para descarga Eclipse es necesario diregice a la pagina oficial de Eclipse 
+  Para descarga Eclipse es necesario diregice a la pagina oficial de Eclipse
+  ![image](https://user-images.githubusercontent.com/43456293/50297234-13aab380-045b-11e9-880e-423ab231ce2e.png)
   donde te aperecera para descagerlo tento para linix y Windows le das al boton Descagar.
   una ves descagado vas la carteta donde lo descagaste y clip derecho extraer aqui 
   vas a ver una archivo llamado (eclipse.inst) le das clip y seguis los procedimientos 
