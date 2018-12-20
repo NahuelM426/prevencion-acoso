@@ -6,7 +6,7 @@
 
 ## Software necesario
 
-##Explicar aquí cómo instalar lo siguiente:
+# Explicar aquí cómo instalar lo siguiente:
 * JDK 1.8
 
 # Instalar open Java 8 en Ubuntu
@@ -49,25 +49,22 @@
   Para Mas Detalles Dirigirce
   https://www.eclipse.org/downloads/index.php
 
-### Configuración del entorno
-
-## Explicar aquí cómo hacer lo siguiente:
-
-# Crear la base de datos.
+# Configuración del entorno
+## Crear la base de datos.
   Deves esta en una consola 
   ``` 
   .abrir Mysql -u root -proot
   .create database prevencionAcoso;
   .use prevencionAcoso;
   ``` 
-# Cargar los datos iniciales.
+## Cargar los datos iniciales.
  
   ir a la consola 
   ``` 
   show tables;
   select * from Telefono;
    ``` 
-# Importar el proyecto en Eclipse.
+## Importar el proyecto en Eclipse.
   ---
   Para crear una proyecto nuevo
   Abrir Eclipse a la Izquierda arriba hay menu llamado File Entras 
