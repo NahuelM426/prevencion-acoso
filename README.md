@@ -6,11 +6,10 @@
 
 ## Software necesario
 
-Explicar aquí cómo instalar lo siguiente:
+##Explicar aquí cómo instalar lo siguiente:
 * JDK 1.8
-Paso 1 - Instalar open Java 8 en Ubuntu
-  Debe habilitar un repositorio adicional en su sistema para instalar Java 8 en Ubuntu VPS. Después de eso, instale Java   8 en un sistema Ubuntu usando apt-get.
-  
+
+# Instalar open Java 8 en Ubuntu
   Ejecute los siguientes comandos para instalar Java 8 en Ubuntu y LinuxMint.
   ``` 
     sudo apt-get install openjdk-8-jre
@@ -18,7 +17,7 @@ Paso 1 - Instalar open Java 8 en Ubuntu
 
    
  
-* Maven
+# Maven
   Instalar Apache Maven en Ubuntu con Apt
   
    Comience por actualizar el índice del paquete:
@@ -35,35 +34,40 @@ Paso 1 - Instalar open Java 8 en Ubuntu
   ``` 
 
 
-* MySQL
+# MySQL
   La versión corta de la instalación es simple:
   ``` 
   sudo apt-get update
   sudo apt-get install mysql-server
   mysql_secure_installation
   ``` 
-* Eclipse
+# Eclipse
+  Para descarga Eclipse es necesario diregice a la pagina oficial de Eclipse 
+  donde te aperecera para descagerlo tento para linix y Windows le das al boton Descagar.
+  una ves descagado vas la carteta donde lo descagaste y clip derecho extraer aqui 
+  vas a ver una archivo llamado (eclipse.inst) le das clip y seguis los procedimientos 
+  Para Mas Detalles Dirigirce
+  https://www.eclipse.org/downloads/index.php
 
-  Como descargar Eclipse  
-  ir https://www.eclipse.org/downloads/index.php
+### Configuración del entorno
 
-## Configuración del entorno
+## Explicar aquí cómo hacer lo siguiente:
 
-Explicar aquí cómo hacer lo siguiente:
-* Crear la base de datos.
+# Crear la base de datos.
   Deves esta en una consola 
   ``` 
   .abrir Mysql -u root -proot
   .create database prevencionAcoso;
   .use prevencionAcoso;
   ``` 
-* Cargar los datos iniciales.
+# Cargar los datos iniciales.
+ 
   ir a la consola 
   ``` 
   show tables;
   select * from Telefono;
    ``` 
-* Importar el proyecto en Eclipse.
+# Importar el proyecto en Eclipse.
   ---
   Para crear una proyecto nuevo
   Abrir Eclipse a la Izquierda arriba hay menu llamado File Entras 
