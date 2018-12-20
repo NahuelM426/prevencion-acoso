@@ -43,6 +43,7 @@ Paso 1 - Instalar open Java 8 en Ubuntu
   mysql_secure_installation
   ``` 
 * Eclipse
+
   Como descargar Eclipse  
   ir https://www.eclipse.org/downloads/index.php
 
@@ -53,23 +54,23 @@ Explicar aquí cómo hacer lo siguiente:
   Deves esta en una consola 
   ``` 
   .abrir Mysql -u root -proot
-  .create database nombreDeBase;
-  .use nombreDeBase;
+  .create database prevencionAcoso;
+  .use prevencionAcoso;
   ``` 
 * Cargar los datos iniciales.
-  ir a la Class DataGenerator 
+  ir a la consola 
   ``` 
-    Ej: Telefono telefono = new Telefono();
-	    	telefono.setNombre("Atención para mujeres en situación de violencia");
-	    	telefono.setDescripcion("Si vos o alguien que conocés vive alguna situación de violencia, llamá gratis al 144 o buscá         algún centro de atención cercano.");
-      	telefono.setNumero("144");
-        telefonosHome.saveOrUpdate(telefono);
+  show tables;
+  select * from Telefono;
    ``` 
 * Importar el proyecto en Eclipse.
   ---
-  Entrar A Eclipse
-  Ir A File 
-      Import
-      Abri la carpeta Maven (Existing Maven Projects)
+  Para crear una proyecto nuevo
+  Abrir Eclipse a la Izquierda arriba hay menu llamado File Entras 
+  Te dirigis a donde deci Import ( te abre una nueva) hace clip en Mave y selecciona Existing Maven Projects
+  Te abre una nueva ventana donde en la parte superior derecha veras un boton (Browse) y vas a donde hiciste el clon de         proyecto
+
+  Como ejectuar los tesp
+  
   --- 
 
